@@ -208,7 +208,10 @@ a {
 .panel input[type="text"]{
     max-width: 50px;
 }
-
+.panel input[type="range"]{
+    width: 220px;
+    margin: 0 10px;
+}
 
 
 
